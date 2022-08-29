@@ -12,7 +12,7 @@
 
 > Deployment of the contract 
 
-![Deployment](Starter_Code/Execution_Results/deployment.png)
+![Deployment](Starter_Code/Execution_Results/Deployment.png)
 
 ---
 
